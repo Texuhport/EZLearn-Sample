@@ -1,0 +1,1 @@
+# EZLearn Python is an EdTech startup focused on providing a gamified, personalized and optimized learning experience for learners around the world. Right now we're committed to bringing our generative AI educator to students in Nigeria. 
